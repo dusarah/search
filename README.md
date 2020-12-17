@@ -12,7 +12,9 @@ Create a website where users may enter a GitHub username into a form, submit it,
 
 ## Technologies used
 
-.html
-.css
-.typescript
+1.html
+
+2.css
+
+3.typescript
 
